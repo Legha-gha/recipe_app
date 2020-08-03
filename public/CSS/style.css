@@ -1,0 +1,18 @@
+body{
+    padding: 70px;
+}
+.card div button {
+    margin: 0 .1rem;
+}
+
+.card {
+    margin-bottom: .5rem;
+    background-color: #eee;
+}
+.collapse p{
+    margin: .4rem;
+}
+
+h5{
+    margin: .3rem;
+}
